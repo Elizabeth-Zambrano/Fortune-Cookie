@@ -1,4 +1,4 @@
-import FortuneBox from "./components/FortuneBox"
+import FortuneBox from "./Components/FortuneBox1"
 import frases from "./Phrases/phrases.json"
 import imagen from "./Phrases/image.js"
 import { useState } from "react"
